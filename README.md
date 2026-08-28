@@ -37,4 +37,4 @@ Principalement cet outils est fait pour etre une base si un jour vous voulez fai
 
 ## ⭐ Soutenir le projet
 
-Si un jour ce projet vous aide ou vous ai utile laissez un petit ⭐ pour me soutenir, mmerci.
+Si  projet vous aide ou vous ai utile laissez un petit ⭐ pour me soutenir, mmerci.
