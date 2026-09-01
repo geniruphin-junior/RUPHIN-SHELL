@@ -11,7 +11,7 @@
 - Autocomplétion
 - mini-mémoire
 - commandes personnalisées
-- Mémoire RAM & CPU
+- gestion Mémoire RAM & CPU
 
 ## Installation
 
